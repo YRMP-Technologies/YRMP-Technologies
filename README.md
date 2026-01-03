@@ -53,13 +53,6 @@ We strive to maintain healthy, respectful, and positive relationships with every
 
 ---
 
-## News & Announcements
-
-- **12 July 2022** — Web Application  
-- **12 May 2022** — Mobile Application  
-- **15 August 2021** — Media Production  
-
----
 
 ## Our Clients
 
