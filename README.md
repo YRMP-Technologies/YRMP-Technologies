@@ -79,25 +79,13 @@ We would love to collaborate with you.
 
 ---
 
-## Quick Links
+## Services
 
 - Media Production  
 - Telecom Solutions  
-- IT Services  
-- Careers  
-- News  
-- CSR  
+- IT Services
+- Web Service
 
----
 
-## Navigation
-
-- Home  
-- Media Production  
-- Telecom Solutions  
-- IT Services  
-- Contact  
-
----
 
 © Yama Ramin Media Production & Technology Inc (YRMPT)
